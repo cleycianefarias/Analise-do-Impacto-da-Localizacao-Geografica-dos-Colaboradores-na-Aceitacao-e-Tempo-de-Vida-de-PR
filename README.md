@@ -1,4 +1,4 @@
-## Análise do Impacto da Localização Geográfica dos Colaboradores na Aceitação e Tempo de Vida de Pull Requests
+## Análise do Impacto da Localização Geográfica dos Colaboradores na Aceitação e Tempo de Vida de *Pull Requests*
 
 Monografia apresentada como exigência final para obtenção do grau de bacharel em Sistemas de Informação da Universidade Federal do Acre.
 
