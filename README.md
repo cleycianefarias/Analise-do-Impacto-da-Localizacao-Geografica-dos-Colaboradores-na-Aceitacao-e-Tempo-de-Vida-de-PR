@@ -1,6 +1,6 @@
 <div style="text-align: justify"> 
 
-# ANÁLISE DO IMPACTO DA LOCALIZAÇÃO GEOGRÁFICA DOS COLABORADORES NA ACEITAÇÃO E TEMPO DE VIDA DE PULL REQUESTS
+## ANÁLISE DO IMPACTO DA LOCALIZAÇÃO GEOGRÁFICA DOS COLABORADORES NA ACEITAÇÃO E TEMPO DE VIDA DE PULL REQUESTS
 
 Monografia apresentada como exigência final para obtenção do grau de bacharel em Sistemas de Informação da Universidade Federal do Acre.
 
