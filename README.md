@@ -1,10 +1,10 @@
-<p style='text-align: justify;'> 
-
+<p align="center">
 ## Análise do Impacto da Localização Geográfica dos Colaboradores na Aceitação e Tempo de Vida de *Pull Requests*
 
 Monografia apresentada como exigência final para obtenção do grau de bacharel em Sistemas de Informação da Universidade Federal do Acre.
 
 **Prof. Orientador:** Dr. Daricélio Moreira Soares
+
 **Discente:** Cleyciane Farias de Lima
 
 ### RESUMO
@@ -18,7 +18,6 @@ Palavras-chave: Pull Request, Desenvolvimento Distribuído de Software, Localiza
 The Distributed Software Development (DDS) allows the work with Software Development in a global way, by uniting people from different locations of the world to make software together. One of the main features of DSS is the use of external contributions that can be systematized through a collaboration paradigm called Pull request. In this Paradigm, external contributors make a fork from the repository, integrate it and send a Pull Request in which the team will decide, whether or not, to integrate into the main repository. Currently, the literature has sought to identify the factors that influence the acceptance and rejection of Pull Requests. Therefore, this work aims to identify how the geographical location influences the acceptance and lifetime of Pull Request and the relationship with physical factors of Pull Requests contributions.
 
 Key-words: Pull Request, Distributed Development Software, Geographic location.
-
 </p>
 
 
