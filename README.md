@@ -1,8 +1,9 @@
-<div style="text-align: justify"> 
+
 
 ## ANÁLISE DO IMPACTO DA LOCALIZAÇÃO GEOGRÁFICA DOS COLABORADORES NA ACEITAÇÃO E TEMPO DE VIDA DE PULL REQUESTS
-
+<div style="text-align: justify"> 
 Monografia apresentada como exigência final para obtenção do grau de bacharel em Sistemas de Informação da Universidade Federal do Acre.
+</div>
 
 ### RESUMO
 
@@ -16,4 +17,4 @@ The Distributed Software Development (DDS) allows the work with Software Develop
 
 Key-words: Pull Request, Distributed Development Software, Geographic location.
 
-</div>
+
